@@ -4,7 +4,7 @@
 
 **IT Support | Application Support | QA | Cloud Support | Java/Spring Boot**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sumanth-reddy-dondeti-1b2a5832a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sumanth-reddy-dondeti-/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/sumanthreddy0508)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:Sumanthreddy0508@gmail.com)
 
